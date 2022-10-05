@@ -13,10 +13,10 @@ int main()
         freopen("test.inp","r",stdin);
 
         int a,b;
-        scanf('%d %d', &a, &b);
+        scanf("%d %d", &a, &b);
 
         int tong = a+b;
-        printf('Tong hai so la: %d\n', tong);
+        printf("Tong hai so la: %d\n", tong);
         return 0;
     
 
